@@ -4,3 +4,4 @@ This application, developed in Python, is hosted on Google App Engine. It utiliz
 
 Currently, the label reader is in the development phase and successfully interprets 65% of medication labels accurately.
 
+For more info: https://abhat.io/app/software/cloud/cloud.html
