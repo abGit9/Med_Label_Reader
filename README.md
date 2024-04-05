@@ -8,7 +8,7 @@
 
 
 <h2>Overview</h2>
-<p>The Pilly App faces a common issue amongst its users: manual data entry is too long and time-consuming. To address this issue, we created a web service that automates this process. Users simply take a photo of their medication label and upload it. The service then interprets the label, identifies the medication, and returns the relevant data to the user.</p>
+<p>The Pilly App faces a common issue amongst its users: manual data entry is too long and time-consuming. To address this, we created a web service that automates this process. Users simply take a photo of their medication label and upload it. The service then interprets the label, identifies the medication, and returns the relevant data to the user.</p>
 <p>This application is developed in Python and is hosted on Google Cloud App Engine. It leverages the power of the Google Vision API to recognize text within images. The text is then matched against a database of medication names, compiled using the DailyMed (NLM) API. Our service currently achieves a 65% accuracy rate in interpreting medication labels and is continuously being improved.</p>
 
 <h2>Languages</h2>
